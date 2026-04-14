@@ -80,6 +80,10 @@ The goal is to understand sales patterns, customer behavior, and profitability u
 
 ---
 
+## Link of the Notebook
+
+https://colab.research.google.com/drive/1urVz9eN7ka3qwIK50O33D6Y06Ob_bzuL#scrollTo=XyFVC5dDW2Wq
+
 ## 👩‍💻 Author
 
 Shagun Ojha
